@@ -1,0 +1,22 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+
+h1 {
+    color: red;
+    font-size: 32px;
+}
+
+h2 {
+    color: pink;
+    font-size: 32px;
+}
+
+img {
+    width: 90vw;
+
+}
+
+
